@@ -1,0 +1,20 @@
+{
+    "source_file": "Project_report.txt",
+    "extracted_at": "2024-12-28T21:15:23Z",
+    "metadata": {
+        "title": "Project Alpha Report",
+        "date": "2026-03-24",
+        "author": null
+    },
+    "data": {
+        "project_name": "Project Alpha",
+        "client_name": "TechCorp",
+        "date": "2026-03-24",
+        "equipment_list": [
+            "Main Board",
+            "Sensor Module"
+        ],
+        "total_cost": 4500
+    },
+    "agent_notes": "Found the target file by identifying 'Project_report.txt' as the most relevant document containing structured project data, while other files were clearly decoys with minimal content."
+}
